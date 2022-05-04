@@ -1,0 +1,2 @@
+{"term":"lathargic","definition":"too lazy","mistakes":0}
+{"term":"timid","definition":"lazy","mistakes":0}
